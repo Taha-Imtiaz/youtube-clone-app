@@ -20,7 +20,8 @@ class App extends Component {
       //same as writing part = snippet as query string at the end of base url
       part: 'snippet',
       maxResults: 5,
-      key: 'AIzaSyCQDLt8AQ0YmTbqVKEhKSKwCDphSNkfMYI',
+      // key: 'AIzaSyCQDLt8AQ0YmTbqVKEhKSKwCDphSNkfMYI',
+      key: 'AIzaSyD4XvZ7yLgMDtBHXraX82KZ42QKtpMMLm0',
       q: searchTerm
   }})
    this.setState({
